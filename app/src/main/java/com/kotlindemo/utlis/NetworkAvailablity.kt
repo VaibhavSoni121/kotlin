@@ -8,7 +8,7 @@ import android.widget.Toast
 
 /**
  * TO check if Internet connection is available or not.
- * @author Canopus
+ * @author Vaibhav
  */
 object NetworkAvailablity {
 

@@ -6,10 +6,9 @@ import android.content.SharedPreferences.Editor
 
 /**
  * This class used for handling shared preferences in application.
- *
- * @author CanopusInfosystems
+ * @author Vaibhav
  * @version 1.0
- * @since 2017-04-26
+ * @since 2017-12-07
  */
 class SharePreferenceUtility {
     private var mEditor: Editor? = null
